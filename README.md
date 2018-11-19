@@ -15,5 +15,9 @@ Visualization and Linear regression are used in the analysis and get conclusion:
 > Advertising can really help increase revenues but not profits necessarily. Informational offer has less effect than BOGO and discount. However, if Starbucks intend to attract more consumptions, promotion costs might offset incomes while there aren’t enough customer response.
 > Due to low response rate, it suggests that advertising higher income females who are 3 years member seems a good idea since they are most likely spending more in Starbucks.
 
-## 4. Blog link
+## 4. links
+Medium links:
 https://medium.com/@RedOriental/starbucks-capstone-challenge-8f4075b7a1da
+
+GitHub links:
+https://github.com/fzf104/Starbucks_Capstone_Challenge
